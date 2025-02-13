@@ -48,6 +48,3 @@ cols = st.columns(len(image_paths))  # Create dynamic columns based on image cou
 # Display images in a grid
 for col, img_path in zip(cols, image_paths):
     col.image(img_path, use_container_width=True)
-
-
-

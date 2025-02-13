@@ -34,13 +34,13 @@ st.markdown(
 )
 # List of image paths
 image_paths = [
-    "7.JPG",
-    "1.jpg",
+    "1.JPG",
     "2.jpg",
     "3.jpg",
     "4.jpg",
     "5.jpg",
-    "6.jpg"
+    "6.jpg",
+     "7.jpg"
 ]  # Update paths based on your local files
 
 # Create a layout with columns

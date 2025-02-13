@@ -9,24 +9,15 @@ st.markdown(
     <div style="text-align: center; padding: 50px;">
         <h1 style="color: red;">❤️ Happy Valentine's Day ❤️</h1>
         <p style="font-size: 20px; line-height: 1.6;">
-            Four years ago, we began this beautiful journey together, stepping into an arranged marriage with hopes, dreams, 
-            and a promise to build a life filled with love and understanding. Looking back, I can say with all my heart that 
-            meeting you was the best thing that ever happened to me.
+            To my Sona ,Happy 5th Valentine's today, to my understanding and loving wife. Meeting you was the best thing that ever happened to me.
         </p>
         <p style="font-size: 20px; line-height: 1.6;">
-            From the moment we became husband and wife, you have been my strength, my peace, and my greatest blessing. 
-            And this year, as we hold our little bundle of joy in our arms, my love for you has only deepened. Seeing you as a mother 
-            fills me with immense pride and admiration. The way you nurture, care, and love our baby boy shows me just how incredible you truly are.
+            You're also my best friend to which i can share all my feelings(sometimes anger too :D) without amy filters. 
+            And now this year, we've our own cute gapdu to celebrate the valentine with us.Seeing you with our gapdu
+            fills me more with love for you. Thank you this cute little teddy as valentine gift and taking care of me and gapdu shows just how awesome you truly are.
         </p>
         <p style="font-size: 20px; line-height: 1.6;">
-            You have filled our home with warmth, laughter, and unconditional love. Even on the toughest days, your presence alone 
-            makes everything feel right. Every little moment—our late-night talks, the way you take care of every little detail, 
-            and the smile that lights up our home—reminds me how lucky I am to have you.
-        </p>
-        <p style="font-size: 20px; line-height: 1.6;">
-            On this special day, I just want to remind you how much I love you, how grateful I am for you, and how excited I am 
-            for the beautiful future we will build together as a family. Our love story is just getting started, and I promise to cherish 
-            and love you every single day, now and always.
+            I love you.Our love story is just getting started, and I promise to love you every single day, now and always.
         </p>
     </div>
     """,

@@ -12,7 +12,7 @@ st.markdown(
             To my Sona ,Happy 5th Valentine's today, to my understanding and loving wife. Meeting you was the best thing that ever happened to me.
         </p>
         <p style="font-size: 20px; line-height: 1.6;">
-            You're also my best friend to which i can share all my feelings(sometimes anger too :D) without amy filters. 
+            You're also my best friend to which i can share all my feelings(sometimes anger too :D) without any filters. 
             And now this year, we've our own cute gapdu to celebrate the valentine with us.Seeing you with our gapdu
             fills me more with love for you. Thank you this cute little teddy as valentine gift and taking care of me and gapdu shows just how awesome you truly are.
         </p>

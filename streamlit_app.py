@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Set page configuration for wide layout (must be the first Streamlit command)
-st.set_page_config(layout="wide")
+st.set_page_config(page_title="Ketan ❤️ Sonam", layout="wide")
 
 # Display the Valentine's message
 st.markdown(
@@ -48,3 +48,6 @@ cols = st.columns(len(image_paths))  # Create dynamic columns based on image cou
 # Display images in a grid
 for col, img_path in zip(cols, image_paths):
     col.image(img_path, use_container_width=True)
+
+
+

@@ -40,7 +40,7 @@ image_paths = [
     "4.jpg",
     "5.jpg",
     "6.jpg",
-    "7.jpg"
+    "7.JPG"
 ]  # Update paths based on your local files
 
 # Create a layout with columns
